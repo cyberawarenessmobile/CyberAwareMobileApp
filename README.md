@@ -1,2 +1,2 @@
 # CyberAwareMobileApp
-CyberAware Mobile Application Project FT02A MUR
+CyberAware Mobile Application Project MUR FT02A
